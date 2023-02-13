@@ -11,11 +11,172 @@
             "id": "eac20708cb3d5f5c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Domain 1 - System Management/1.1 - Linux Fundamentals/Content.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77a19987c9a66bfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain 1 - System Management/1.1 - Linux Fundamentals/Filesystem Hierarchy Standard (FHS).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ee276dc42b45ac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain 1 - System Management/1.1 - Linux Fundamentals/Basic Boot Process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63c589ac54b45d22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain 1 - System Management/1.1 - Linux Fundamentals/Kernel panic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eaf7cf2b750098df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain 1 - System Management/1.1 - Linux Fundamentals/Device types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1119404fec196ed2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain 1 - System Management/1.1 - Linux Fundamentals/Basic package compilation from source.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75a3adc6649065cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain 1 - System Management/1.1 - Linux Fundamentals/Storage concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8231a8bb9c51f4e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain 1 - System Management/1.2 - Manage Files/Content.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04ff909162515ca4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain 1 - System Management/1.2 - Manage Files/File editing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0f71a4f3fbd5acc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain 1 - System Management/1.2 - Manage Files/File compression, archiving, and backup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ec72b25eeb8215f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain 1 - System Management/1.2 - Manage Files/File metadata.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad3b012c4f8ecb38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain 1 - System Management/1.2 - Manage Files/Soft and hard links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1029e9a6323e0ab3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain 1 - System Management/1.2 - Manage Files/Copying files between systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36a3d30f151f3715",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain 1 - System Management/1.2 - Manage Files/File and directory operations.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -81,6 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Domain 1 - System Management/1.2 - Manage Files/File and directory operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Domain 1 - System Management/1.2 - Manage Files/File and directory operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +281,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Domain 1 - System Management/1.2 - Manage Files/File and directory operations.md"
+              }
             }
           }
         ]
@@ -138,17 +303,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eac20708cb3d5f5c",
+  "active": "36a3d30f151f3715",
   "lastOpenFiles": [
-    "Domain 4 - Troubleshooting/4.1 - Troubleshoot Storage/Content.md",
-    "Untitled.canvas",
-    "Domain 4 - Troubleshooting/4.2 - Troubleshoot Network Issues/Content.md",
-    "Domain 4 - Troubleshooting/4.3 - Troubleshoot CPU and memory/Content.md",
-    "Domain 4 - Troubleshooting/4.4 - Troubleshoot user access and file permissions/Content.md",
-    "Domain 4 - Troubleshooting/4.5 - Troubleshooting with systemd/Content.md",
-    "Domain 3 - Scripting, Containers/3.5 - Container, Cloud, Orchestration/Content.md",
-    "Domain 3 - Scripting, Containers/3.4 - Code Technologies/Content.md",
-    "Domain 3 - Scripting, Containers/3.3 - Basic Version Control Git/Content.md",
-    "Domain 3 - Scripting, Containers/3.2 - Basic Container Operations/Content.md"
+    "Domain 1 - System Management/1.2 - Manage Files/Copying files between systems.md",
+    "Domain 1 - System Management/1.2 - Manage Files/Soft and hard links.md",
+    "Domain 1 - System Management/1.2 - Manage Files/File metadata.md",
+    "Domain 1 - System Management/1.2 - Manage Files/File compression, archiving, and backup.md",
+    "Domain 1 - System Management/1.2 - Manage Files/File editing.md",
+    "Domain 1 - System Management/1.2 - Manage Files/Content.md",
+    "Domain 1 - System Management/1.1 - Linux Fundamentals/Content.md",
+    "Domain 1 - System Management/1.1 - Linux Fundamentals/Listing hardware information.md",
+    "Domain 1 - System Management/1.1 - Linux Fundamentals/Storage concepts.md",
+    "Domain 1 - System Management/1.1 - Linux Fundamentals/Basic package compilation from source.md"
   ]
 }

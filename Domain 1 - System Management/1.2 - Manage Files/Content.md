@@ -1,0 +1,34 @@
+- **File editing**
+	- sed
+	- awk
+	- printf
+	- nano
+	- vim
+- **File compression, archiving, and backup**
+	- gzip
+	- bzip2
+	- zip
+	- tar
+	- xz
+	- cpio
+	- dd
+- **File metadata**
+	- stat
+	- file
+- **Soft and hard links**
+- **Copying files between systems**
+	- rsync
+	- scp
+	- nc
+- **File and directory operations**
+	- mv
+	- cp
+	- mkdir
+	- rmdir
+	- ls
+	- pwd
+	- rm
+	- cd
+	- tree
+	- cat
+	- touch
