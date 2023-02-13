@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fdd165e50dfb1133",
+        "id": "a07b07e34eab2393",
         "type": "tabs",
         "children": [
           {
-            "id": "d30ab5437134ed9e",
+            "id": "eac20708cb3d5f5c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,6 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d30ab5437134ed9e",
-  "lastOpenFiles": []
+  "active": "eac20708cb3d5f5c",
+  "lastOpenFiles": [
+    "Domain 4 - Troubleshooting/4.1 - Troubleshoot Storage/Content.md",
+    "Untitled.canvas",
+    "Domain 4 - Troubleshooting/4.2 - Troubleshoot Network Issues/Content.md",
+    "Domain 4 - Troubleshooting/4.3 - Troubleshoot CPU and memory/Content.md",
+    "Domain 4 - Troubleshooting/4.4 - Troubleshoot user access and file permissions/Content.md",
+    "Domain 4 - Troubleshooting/4.5 - Troubleshooting with systemd/Content.md",
+    "Domain 3 - Scripting, Containers/3.5 - Container, Cloud, Orchestration/Content.md",
+    "Domain 3 - Scripting, Containers/3.4 - Code Technologies/Content.md",
+    "Domain 3 - Scripting, Containers/3.3 - Basic Version Control Git/Content.md",
+    "Domain 3 - Scripting, Containers/3.2 - Basic Container Operations/Content.md"
+  ]
 }
