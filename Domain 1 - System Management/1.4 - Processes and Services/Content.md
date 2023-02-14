@@ -1,0 +1,41 @@
+- ### System services
+	- systemctl
+		- start
+		- stop
+		- enable
+		- disable
+		- restart
+		- mark
+		- unmark
+- ### Scheduling services
+	- cron
+	- crontab
+	- at
+- ### Process management
+	- Kill signals
+		 - SIGTERM
+		 - SIGKILL
+		 - SIGHUP
+	- Listing processes and open files
+		 - top
+		 - ps
+		 - lsof
+		 - htop
+	- Setting priorities
+		 - nice
+		 - renice
+	- Process states
+		- Zombie
+		- Sleeping
+		- Running
+		- Stopped
+	- Job control
+		 - bg
+		 - fg
+		 - jobs
+		 - Ctrl + Z
+		 - Ctrl + C
+		 - Ctrl + D
+	- pgrep
+	- pkill
+	- pidof

@@ -1,4 +1,4 @@
-- **Filesystem Hierarchy Standard (FHS)**
+- ### Filesystem Hierarchy Standard (FHS)
 	- /boot
 	- /proc
 	- /sys
@@ -15,7 +15,7 @@
 	- /mnt
 	- /root
 	- /tmp
-- **Basic boot process**
+- ### Basic boot process
 	- Basic input/output system (BIOS)
 	- Unified Extensible Firmware Interface (UEFI)
 	- Commands
@@ -31,19 +31,19 @@
 		- Preboot eXecution Environment (PXE)
 		- Booting from USB
 		- Booting from ISO
-- **Kernel panic** 
-- **Device types in /dev**
+- ### Kernel panic
+- ### Device types in /dev
 	- Block devices
 	- Character devices
 	- Special character devices
 		- /dev/null
 		- /dev/zero
 		- /dev/urandom
-- **Basic package compilation from source**
+- ### Basic package compilation from source
 	- ./configure
 	- make
 	- make install
-- **Storage concepts**
+- ### Storage concepts
 	- File storage
 	- Block storage
 	- Object storage
@@ -55,7 +55,7 @@
 		- Striping
 		- Mirroring
 		- Parity
-- **Listing hardware information**
+- ### Listing hardware information
 	- lspci
 	- lsusb
 	- dmidecode

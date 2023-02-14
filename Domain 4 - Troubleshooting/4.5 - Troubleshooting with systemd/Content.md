@@ -1,0 +1,31 @@
+- ### Unit files
+	- Service
+		 - Networking services
+		 - ExecStart/ExecStop
+		 - Before/after
+		 - Type
+		 - User
+		 - Requires/wants
+	- Timer
+		 - OnCalendar
+		 - OnBootSec
+		 - Unit
+		 - Time expressions
+	- Mount
+		- Naming conventions
+		- What
+		- Where
+		- Type
+		- Options
+	- Target
+		 - Default
+		 - Multiuser
+		 - Network-online
+		 - Graphical
+- ### Common problems
+	- Name resolution failure
+	- Application crash
+	- Time-zone configuration
+	- Boot issues
+	- Journal issues
+	- Services not starting on time

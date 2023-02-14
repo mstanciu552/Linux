@@ -1,0 +1,14 @@
+- ### Firewall use cases
+	- Open and close ports
+	- Check current configuration
+	- Enable/disable Internet Protocol (IP) forwarding
+- ### Common firewall technologies
+	- firewalld
+	- iptables
+	- nftables
+	- Uncomplicated FireWall (UFW)
+- ### Key firewall features
+	- Zones
+	- Services
+	- Stateful
+	- Stateless

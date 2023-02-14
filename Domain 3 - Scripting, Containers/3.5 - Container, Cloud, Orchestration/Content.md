@@ -1,0 +1,16 @@
+- ### Kubernetes benefits and application use cases
+	- Pods
+	- Sidecars
+	- Ambassador containers
+- ### Single-node, multicontainer use cases
+	 - Compose
+- ### Container persistent storage
+- ### Container networks
+	- Overlay networks
+	- Bridging
+	- Network Address Translation (NAT)
+	- Host
+- ### Service mesh
+- ### Bootstrapping
+	- Cloud-init
+- ### Container registries

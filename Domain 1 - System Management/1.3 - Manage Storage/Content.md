@@ -1,0 +1,40 @@
+- ### Disk partitioning
+	- fdisk
+	- parted
+	- partprobe
+- ### Mounting local and remote devices
+	- systemd.mount
+	- /etc/fstab
+	- mount
+	- Linux Unified Key Setup (LUKS)
+	- External Devices
+- ### Filesystem management
+	- XFS tools
+	- Ext4 tools
+	- Btrfs tools
+- ### Monitoring storage space and disk usage
+	- df
+	- du
+- ### Creating and modifying volumes using Logical Volume Manager (LVM)
+	- pvs
+	- vgs
+	- lvs
+	- lvchange
+	- lvcreate
+	- vgcreate
+	- lvresize
+	- pvcreate
+	- vgextend
+- ### Inspecting RAID Implementations
+	- mdadm
+	- /proc/mdstat
+- ### Storage area network (SAN) / Network Attached Storage (NAS)
+	- multipathd
+	- Network Filesystems
+		- Network File System (NFS)
+		- Server Message Block (SMB) / Common Internet File System (CIFS)
+- ### Storage hardware
+	- lsscsi
+	- lsblk
+	- blkid
+	- fcstat

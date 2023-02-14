@@ -1,0 +1,9 @@
+- clone
+- push
+- pull
+- commit
+- add
+- checkout
+- branch
+- tag
+- gitignore

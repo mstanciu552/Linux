@@ -1,0 +1,20 @@
+- ### High latency
+	- Input/output (I/O) wait
+- ### Low throughput
+- ### Input/output operations per second (IOPS) scenarios
+	 - Low IOPS
+- ### Capacity Issues
+	- Low disk space
+	- Inode exhaustion
+- ### Filesystem issues
+	- Corruption
+	- Mismatch
+- ### I/O Scheduler
+- ### Device issues
+	- Non-volatile memory express (NVMe)
+	- Solid-state drive (SSD)
+	- SSD trim
+	- RAID
+	- LVM
+	- I/O errors
+- ### Mount option problems

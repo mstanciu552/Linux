@@ -1,0 +1,26 @@
+- ### Account creation and deletion
+	- Utilities
+		 - useradd
+		 - groupadd
+		 - userdel
+		 - groupdel
+		 - usermod
+		 - groupmod
+		 - id
+		 - who
+		 - w
+	- Default shell
+	- Configuration Files
+		 - /etc/passwd
+		 - /etc/group
+		 - /etc/shadow
+		 - /etc/profile
+		 - /etc/skel
+		 - .bash_profile
+		 - .bashrc
+- ### Account management
+	- passwd
+	- chage
+	- pam_tally2
+	- faillock
+	- /etc/login.defs

@@ -1,0 +1,25 @@
+- ### Runaway processes
+- ### Zombie processes
+- ### High CPU utilization
+- ### High load average
+- ### High run queues
+- ### CPU times
+	- steal
+	- user
+	- system
+	- idle
+	- iowait
+- ### CPU process priorities
+	- nice
+	- renice
+- ### Memory exhaustion
+	- free memory vs. file cache
+- ### Out of memory (OOM)
+	- memory leaks
+	- process killer
+- ### Swapping
+- ### Hardware
+	- lscpu
+	- lsmem
+	- /proc/cpuinfo
+	- /proc/meminfo
