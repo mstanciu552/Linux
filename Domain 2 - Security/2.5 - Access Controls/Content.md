@@ -1,0 +1,37 @@
+- ### File permissions
+	- Access Control List (ACL)
+	- Set User ID (SUID)
+	- Set Group ID (SGID)
+	- Sticky bit
+- ### Security-enhanced Linux (SELinux)
+	- Context permissions
+	- Labels
+		 - Autorelabel
+	- System booleans
+	- States
+		- Enforcing
+		- Permissive
+		- Disabled
+	- Policy types
+		- Targeted
+		- Minimum
+- ### AppArmour
+	- Application permissions
+- ### Command-line utilities
+	- chown
+	- umask
+	- chmod
+	- getfacl
+	- setfacl
+	- ls
+	- setenforce
+	- getenforce
+	- chattr
+	- lsattr
+	- chgrp
+	- setsebool
+	- getsebool
+	- chcon
+	- restorecon
+	- semanage
+	- audit2allow

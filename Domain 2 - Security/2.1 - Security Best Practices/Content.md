@@ -1,0 +1,31 @@
+ - ### Managing public key infrastructure (PKI) certificates
+	 - Public key
+	 - Private key
+	 - Self-signed certificate
+	 - Digital signature
+	 - Wildcard certificate
+	 - Hashing
+	 - Certificate authorities
+- ### Certificate use cases
+	- Secure Sockets Layer (SSL) / Transport Layer Security (TLS)
+	- Certificate Authentication
+	- Encryption
+ - ### Authentication
+	 - Tokens
+	 - Multifactor Authentication
+	 - Pluggable authentication modules (PAM)
+	 - System Security Services Daemon (SSSD)
+	 - Lightweight Directory Access Protocol (LDAP)
+	 - Single Sign-On (SSO)
+ - ### Linux hardening
+	 - Security Scanning
+	 - Secure Boot
+		 - UEFI
+	- System logging configurations
+	- Setting default umask
+	- Disabling/removing insecure services
+	- Enforcing password strength
+	- Removing unused packages
+	- Tuning kernel parameters
+	- Securing service accounts
+	- Configuring the host firewall

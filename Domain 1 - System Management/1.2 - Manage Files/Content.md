@@ -1,10 +1,10 @@
-- **File editing**
+- ### File editing
 	- sed
 	- awk
 	- printf
 	- nano
 	- vim
-- **File compression, archiving, and backup**
+- ### File compression, archiving, and backup
 	- gzip
 	- bzip2
 	- zip
@@ -12,15 +12,15 @@
 	- xz
 	- cpio
 	- dd
-- **File metadata**
+- ### File metadata
 	- stat
 	- file
-- **Soft and hard links**
-- **Copying files between systems**
+- ### Soft and hard links
+- ### Copying files between systems
 	- rsync
 	- scp
 	- nc
-- **File and directory operations**
+- ### File and directory operations
 	- mv
 	- cp
 	- mkdir

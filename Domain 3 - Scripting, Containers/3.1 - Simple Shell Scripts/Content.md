@@ -1,0 +1,54 @@
+- ### Shell script elements
+	- Loops
+		 - while
+		 - for
+		 - util
+	- Conditionals
+		 - if 
+		 - switch/case
+	- Shell parameter expansion
+		 - Globbing
+		 - Brace expansion
+	- Comparisons
+		 - Arithmetic
+		 - String
+		 - Boolean
+	- Variables
+	- Search and replace
+	- Regular expressions
+	- Standard stream redirection
+		 - |
+		 - ||
+		 - >
+		 - >>
+		 - <
+		 - <<
+		 - &
+		 - &&
+		 - Redirecting
+			 - stderr
+			 - stdout
+	- Here documents
+	- Exit codes
+	- Shell built-in commands
+		 - read
+		 - echo
+		 - source
+- ### Common script utilities
+	- awk
+	- sed
+	- find
+	- xargs
+	- grep
+	- egrep
+	- tee
+	- wc
+	- cut
+	- tr
+	- head
+	- tail
+- ### Environment Variables
+	- $PATH
+	- $SHELL
+	- $?
+- ### Relative and absolute paths

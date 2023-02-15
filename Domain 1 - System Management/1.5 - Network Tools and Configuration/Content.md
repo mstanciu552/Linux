@@ -1,0 +1,39 @@
+- ### Interface management
+	- iproute2 tools
+		 - ip
+		 - ss
+	- NetworkManager
+		- nmcli 
+	- net-tools
+		 - ifconfig
+		 - ifcfg
+		 - hostname
+		 - arp
+		 - route
+	- /etc/sysconfig/network-scripts/
+- ### Name resolution
+	- nsswitch
+	- /etc/resolv.conf
+	- systemd
+		 - hostnamectl
+		 - resolvectl
+	- bind-utils
+		 - dig
+		 - nslookup
+		 - host
+	- whois
+- ### Network monitoring
+	- tcpdump
+	- wireshark/tshark
+	- netstat
+	- traceroute
+	- ping
+	- mtr
+- ### Remote networking tools
+	- Secure Shell (SSH)
+	- cURL
+	- wget
+	- nc
+	- rsync
+	- Secure Copy Protocol (SCP)
+	- SSH File Transfer Protocol (SFTP)

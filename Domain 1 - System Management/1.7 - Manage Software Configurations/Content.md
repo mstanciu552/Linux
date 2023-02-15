@@ -1,0 +1,31 @@
+- ### Updating configuration files
+	- Procedures
+		 - restart service
+		 - reload service
+	- .rpmnew
+	- .rpmsave
+	- Repository configuration files
+		 - /etc/apt.conf
+		 - /etc/yum.conf
+		 - /etc/dnf/dnf.conf
+		 - /etc/yum.repo.d
+		 - /etc/apt/sources.list.d
+- ### Configure kernel options
+	- Parameters
+		 - sysctl
+		 - /etc/sysctl.conf
+	- Modules
+		 - lsmod
+		 - imsmod
+		 - rmmod
+		 - insmod
+		 - modprobe
+		 - modinfo
+- ### Configure common system services
+	- SSH
+	- Network Time Protocol (NTP)
+	- Syslog
+	- chrony
+- ### Localization
+	- timedatectl
+	- localectl

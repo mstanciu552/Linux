@@ -1,0 +1,15 @@
+- ### Container management
+	- Starting/stopping
+	- Inspecting
+	- Listing
+	- Deploying existing images
+	- Connecting to containers
+	- Logging
+	- Exposing ports
+- ### Container image operations
+	- build
+	- push
+	- pull
+	- list
+	- rmi
+	

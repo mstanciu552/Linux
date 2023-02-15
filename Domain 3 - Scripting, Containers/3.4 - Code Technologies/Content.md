@@ -1,0 +1,15 @@
+- ### File Formats
+	- YAML Ain't Markup Language (YAML)
+	- JavaScript Object Notation (JSON)
+- ### Utilities
+	- Ansible
+	- Puppet
+	- Chef
+	- SaltStack
+	- Terraform
+- ### Continuous integration / continuous deployment (CI/CD)
+	- use cases
+- ### Advanced Git topics
+	- merge
+	- rebase
+	- Pull requests

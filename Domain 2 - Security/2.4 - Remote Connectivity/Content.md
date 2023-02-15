@@ -1,0 +1,23 @@
+- ### SSH
+	- Configuration Files
+		 - /etc/ssh/sshd_config
+		 - /etc/ssh/ssh_config
+		 - ~/.ssh/known_hosts
+		 - ~/.ssh/authorized_keys
+		 - ~/.ssh/config
+	- Commands
+		 - ssh-keygen
+		 - ssh-copy-id
+		 - ssh-add
+	- Tunneling
+		 - X11 forwarding
+		 - Port Forwarding
+		 - Dynamic Forwarding
+- ### Executing commands as another user
+	- /etc/sudoers
+	- PolicyKit rules
+	- Commands
+		- sudo
+		- visudo
+		- su -
+		- pkexec

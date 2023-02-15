@@ -1,0 +1,14 @@
+- ### Package management
+	- DNF
+	- YUM
+	- APT
+	- RPM
+	- dpkg
+	- ZYpp
+- ### Sandboxed applications
+	- snapd
+	- Flatpak
+	- AppImage
+- ### System updates
+	- Kernel updates
+	- Package updates
